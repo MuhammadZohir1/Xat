@@ -23,8 +23,9 @@
   border-left: 140px solid transparent;
   border-right: 140px solid transparent;
   border-bottom: 82px solid transparent;
-  
+  /* a little smaller */
   border-top: 98px solid #ff3333;
+  /* a little larger */
   transform-origin: top;
   pointer-events: none;
 }
